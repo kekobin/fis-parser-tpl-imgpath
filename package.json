@@ -1,0 +1,19 @@
+{
+  "name": "fis-parser-tpl-imgpath",
+  "version": "1.0.0",
+  "description": "fis-parser-tpl-imgpath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekobin/fis-parser-tpl-imgpath.git"
+  },
+  "author": "kekobin@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekobin/fis-parser-tpl-imgpath/issues"
+  },
+  "homepage": "https://github.com/kekobin/fis-parser-tpl-imgpath#readme"
+}
